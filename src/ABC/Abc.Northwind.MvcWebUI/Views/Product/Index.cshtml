@@ -1,0 +1,26 @@
+﻿@using Abc.Northwind.Entities.ConcreteTypes
+@model Abc.Northwind.MvcWebUI.Models.ProductListViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <ul>
+            @foreach (Product product in Model.Products)
+            {
+                <li>@product.ProductName</li>
+                <br />
+            }
+        </ul>
+    </div>
+</body>
+</html>
