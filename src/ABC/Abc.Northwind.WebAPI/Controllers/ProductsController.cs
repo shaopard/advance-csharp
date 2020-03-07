@@ -1,10 +1,4 @@
-﻿// ------------------------------------------------------------------------------
-//     <copyright file="ProductsController.cs" company="BlackLine">
-//         Copyright (C) BlackLine. All rights reserved.
-//     </copyright>
-// ------------------------------------------------------------------------------
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Web.Http;
 
 using Abc.Northwind.Business.Abstract;

@@ -1,10 +1,4 @@
-﻿// ------------------------------------------------------------------------------
-//     <copyright file="WebApiConfig.cs" company="BlackLine">
-//         Copyright (C) BlackLine. All rights reserved.
-//     </copyright>
-// ------------------------------------------------------------------------------
-
-using System.Web.Http;
+﻿using System.Web.Http;
 
 namespace Abc.Northwind.WebAPI
 {

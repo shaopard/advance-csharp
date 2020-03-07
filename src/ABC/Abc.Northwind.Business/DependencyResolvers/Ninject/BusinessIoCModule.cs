@@ -1,10 +1,4 @@
-﻿// ------------------------------------------------------------------------------
-//     <copyright file="BusinessIoCModule.cs" company="BlackLine">
-//         Copyright (C) BlackLine. All rights reserved.
-//     </copyright>
-// ------------------------------------------------------------------------------
-
-using Abc.Northwind.Business.Abstract;
+﻿using Abc.Northwind.Business.Abstract;
 using Abc.Northwind.Business.Concrete;
 using Abc.Northwind.DAL.Abstract;
 using Abc.Northwind.DAL.Concrete.EntityFramework;

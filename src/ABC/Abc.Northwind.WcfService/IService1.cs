@@ -1,10 +1,4 @@
-﻿// ------------------------------------------------------------------------------
-//     <copyright file="IService1.cs" company="BlackLine">
-//         Copyright (C) BlackLine. All rights reserved.
-//     </copyright>
-// ------------------------------------------------------------------------------
-
-using System.Runtime.Serialization;
+﻿using System.Runtime.Serialization;
 using System.ServiceModel;
 
 namespace Abc.Northwind.WcfService

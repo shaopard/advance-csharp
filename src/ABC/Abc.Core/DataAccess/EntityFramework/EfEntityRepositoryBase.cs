@@ -1,10 +1,4 @@
-﻿// ------------------------------------------------------------------------------
-//     <copyright file="EfEntityRepositoryBase.cs" company="BlackLine">
-//         Copyright (C) BlackLine. All rights reserved.
-//     </copyright>
-// ------------------------------------------------------------------------------
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;

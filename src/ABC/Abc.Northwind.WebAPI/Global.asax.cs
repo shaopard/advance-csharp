@@ -1,10 +1,4 @@
-﻿// ------------------------------------------------------------------------------
-//     <copyright file="Global.asax.cs" company="BlackLine">
-//         Copyright (C) BlackLine. All rights reserved.
-//     </copyright>
-// ------------------------------------------------------------------------------
-
-using System.Web;
+﻿using System.Web;
 using System.Web.Http;
 
 namespace Abc.Northwind.WebAPI

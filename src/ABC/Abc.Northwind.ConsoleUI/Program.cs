@@ -1,10 +1,4 @@
-﻿// ------------------------------------------------------------------------------
-//     <copyright file="Program.cs" company="BlackLine">
-//         Copyright (C) BlackLine. All rights reserved.
-//     </copyright>
-// ------------------------------------------------------------------------------
-
-using System;
+﻿using System;
 
 using Abc.Northwind.Business.Abstract;
 using Abc.Northwind.Business.Concrete;

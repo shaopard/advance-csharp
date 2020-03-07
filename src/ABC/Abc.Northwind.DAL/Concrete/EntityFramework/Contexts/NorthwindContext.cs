@@ -1,10 +1,4 @@
-﻿// ------------------------------------------------------------------------------
-//     <copyright file="NorthwindContext.cs" company="BlackLine">
-//         Copyright (C) BlackLine. All rights reserved.
-//     </copyright>
-// ------------------------------------------------------------------------------
-
-using System.Data.Entity;
+﻿using System.Data.Entity;
 
 using Abc.Northwind.DAL.Concrete.EntityFramework.Mappings;
 using Abc.Northwind.Entities.ConcreteTypes;
